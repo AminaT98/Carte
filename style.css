@@ -10,6 +10,7 @@ body{
     align-self: center;
     display: block;
     border: 5px solid darkgreen;
+    border-radius: 15px;
 }
 
 h3{
