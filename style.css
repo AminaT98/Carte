@@ -13,9 +13,14 @@ body{
 }
 
 h3{
-    font-size: 18px;
+    font-size:medium;
     font-weight: bold;
     margin-left: 150px;
     margin-right: 150px;
     margin-bottom: 50px;
+}
+
+#carte{
+    width: 80vw;
+    height: 100vh;
 }
